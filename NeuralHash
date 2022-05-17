@@ -15,7 +15,13 @@ github.com/AsuharietYgvar/AppleNeuralHash2ONNX
 
 一、验证不同模型生成的Neural Hash是否相同？
 如果不同模型生成的Neural Hash不同，则说明这个算法就相当私有化，即算法存在问题
-1. java版
+1. Asuhariet Ygvar版
+   1.1 安装lzfse：brew install lzfse
+       lzfse：苹果开源的无损压缩算法，该算法是在IOS 9中引入的
+   
+   1.2 
+       
+2. java版
 2. 
 3. 
 4. 
